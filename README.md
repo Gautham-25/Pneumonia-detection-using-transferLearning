@@ -1,4 +1,4 @@
-# 🩺 Pneumonia Detection Using Deep Learning
+# 🩺 Pneumonia Detection
 
 ## 📌 Project Overview
 
