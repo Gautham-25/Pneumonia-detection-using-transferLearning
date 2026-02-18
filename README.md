@@ -53,7 +53,7 @@ Images are divided into:
 
 ## ⚙️ Methodology
 
-1. **Data Collection** – Chest X‑ray dataset obtained from Kaggle.
+1. **Data Collection** – Chest X‑ray dataset obtained from Kaggle(https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia).
 2. **Data Preprocessing**
 
    * Image resizing
